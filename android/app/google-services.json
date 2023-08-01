@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "536715297612",
+    "project_id": "assure-capital-co-in",
+    "storage_bucket": "assure-capital-co-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536715297612:android:db021d3361fe55f0aac5e9",
+        "android_client_info": {
+          "package_name": "com.assure_capital.assure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536715297612-ko8cumaj98qunldgm2v8f7eco8dl8uqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assure_capital.assure",
+            "certificate_hash": "ba60893072a1faf976949d4b402df06f80651238"
+          }
+        },
+        {
+          "client_id": "536715297612-l173qumaicg6khhg7pi4iducdf7np2r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assure_capital.assure",
+            "certificate_hash": "16ca7b451a38feb6090557e6e045946aca3d044a"
+          }
+        },
+        {
+          "client_id": "536715297612-su7ana726v3vn1a59glir23c15bs6cm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnKWATLMx7xBy3PcL8Mp23Fi9zAq-DZ6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536715297612-su7ana726v3vn1a59glir23c15bs6cm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
