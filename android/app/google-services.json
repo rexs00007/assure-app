@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218623834903",
+    "project_id": "assure-capital-app",
+    "storage_bucket": "assure-capital-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218623834903:android:67f8cc6750353a7a17d552",
+        "android_client_info": {
+          "package_name": "com.assure_capital.assure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218623834903-bremph5f2jv5t11g6fieqbk9qm76g070.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLJIcvrAtGUsg8cgT4PWotXUQrNc1G9ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218623834903-bremph5f2jv5t11g6fieqbk9qm76g070.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
